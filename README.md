@@ -158,7 +158,7 @@ Extend block widget example
     });
 ```
 
-```
+```javascript
     //make your base panel widget that can be closed on document click or another widget click
     $.widget('custom.panel', $.opesho.block, {
         _create: function () {

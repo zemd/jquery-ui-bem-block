@@ -1,0 +1,16 @@
+{
+  "name": "jquery-ui-bem",
+  "version": "0.1",
+  "homepage": "https://github.com/hunterman/jquery-ui-bem-block",
+  "authors": [
+    "Dmitry Zelenetskiy <dmitry.zelenetskiy@gmail.com>"
+  ],
+  "description": "jqueryui widget for using it like BEM block",
+  "main": "block.js",
+  "keywords": [
+    "jqueryui",
+    "BEM",
+    "jquery"
+  ],
+  "license": "Apache2.0"
+}
