@@ -1,3 +1,5 @@
+[![Code Climate](https://codeclimate.com/github/hunterman/jquery-ui-bem-block.png)](https://codeclimate.com/github/hunterman/jquery-ui-bem-block)
+
 jquery-ui-bem-block
 ===================
 Base jquery-ui widget to manipulate classes like in bem methodology
